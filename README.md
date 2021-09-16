@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiGeumChi
-- 👀 I changed my career to SWE since 2021.03.
-- 🌱 I’m currently learning ML/DL, FullStack Web development.
-- 💞️ I’m interested in making something through coding.
+- 👀 My career as a Software Engineer has begun since 2021.03.
+- 🌱 I’m currently learning ML/DL, FullStack Web development through any education platform or even company program.
+- 💞️ I love to make something by coding.
 - 📫 How to reach me : hit me on through gygygy711@gmail.com
 
 [![shiGeumChi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shigeumchi)](https://github.com/anuraghazra/github-readme-stats)
