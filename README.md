@@ -4,7 +4,9 @@
 - 💞️ I love to make something by coding.
 - 📫 How to reach me : hit me on through gygygy711@gmail.com
 
-[![shiGeumChi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shigeumchi&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![shiGeumChi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shigeumchi&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shigeumchi&layout=compact&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 shiGeumChi/shiGeumChi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
