@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shiGeumChi
-- 👀 My career as a Software Engineer has begun since 2021.03.
+- 👀 I've changed my career to a Software Engineer since 2021.03.
 - 🌱 I’m currently learning ML/DL, FullStack Web development through any available education platform or company supported program I can reach out.
 - 💞️ I love to make something by coding.
 - 📫 How to reach me : hit me on through gygygy711@gmail.com
