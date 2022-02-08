@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dongjin Kim
 - 👀 I've changed my career to a Software Engineer since 2021.03.
-- 🌱 I’m currently learning ML/DL, FullStack Web development through any available education platform or company supported program I can reach out.
+- 🌱 I’m currently learning ML/DL through any available education platform or company supported program I can reach out.
 - 💞️ I love to make something by coding.
 - 📫 How to reach me : hit me on through dongdev711@gmail.com
 - 😊 Thanks for visiting !
